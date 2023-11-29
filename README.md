@@ -36,8 +36,7 @@ This exercise involves creating three classes: `Person`, `Student`, and `Teacher
 - **Additional Methods:**
   - `assign()`: Displays details of the teacher, including subject and level.
 
-            _____________________________________________________________________________________________________________________________
-
+        
 
 ## Exercise POO2
 
